@@ -1,0 +1,44 @@
+# Unreal Engine build artifacts
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/DerivedDataCache/
+Build/UnrealBuildTool/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.log
+*.tlog
+
+# Auto-generated project files
+*.opensdf
+*.sdf
+
+# Crash logs
+CrashReportClient/
+
+# Build output
+*.dll
+*.exe
+*.pdb
+
+# Unreal Shader Working Directory
+Engine/DerivedDataCache/
+Engine/Intermediate/
+
+# Backup files
+*.bak
+
+# Mac / Linux (if you ever cross-build)
+DerivedDataCache/
+Saved/
+Intermediate/
+Binaries/
